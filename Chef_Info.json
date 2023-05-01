@@ -1,0 +1,65 @@
+[
+    {
+        "chef_picture": "https://st3.depositphotos.com/10638998/16262/i/450/depositphotos_162620526-stock-photo-happy-chef-doing-presentation.jpg",
+        "chef_name": "Jane Smith",
+        "years_of_experience": 8,
+        "num_of_recipes": 100,
+        "likes": 500
+    },
+    {
+        "chef_picture": "https://st3.depositphotos.com/10638998/16262/i/450/depositphotos_162620526-stock-photo-happy-chef-doing-presentation.jpg",
+        "chef_name": "David Kim",
+        "years_of_experience": 12,
+        "num_of_recipes": 75,
+        "likes": 1200
+    },
+    {
+        "chef_picture": "https://st3.depositphotos.com/10638998/16262/i/450/depositphotos_162620526-stock-photo-happy-chef-doing-presentation.jpg",
+        "chef_name": "Maria Rodriguez",
+        "years_of_experience": 5,
+        "num_of_recipes": 50,
+        "likes": 300
+    },
+    {
+        "chef_picture": "https://st3.depositphotos.com/10638998/16262/i/450/depositphotos_162620526-stock-photo-happy-chef-doing-presentation.jpg",
+        "chef_name": "Mohamed Ahmed",
+        "years_of_experience": 15,
+        "num_of_recipes": 200,
+        "likes": 900
+    },
+    {
+        "chef_picture": "https://st3.depositphotos.com/10638998/16262/i/450/depositphotos_162620526-stock-photo-happy-chef-doing-presentation.jpg",
+        "chef_name": "Emily Wong",
+        "years_of_experience": 7,
+        "num_of_recipes": 120,
+        "likes": 700
+    },
+    {
+        "chef_picture": "https://st3.depositphotos.com/10638998/16262/i/450/depositphotos_162620526-stock-photo-happy-chef-doing-presentation.jpg",
+        "chef_name": "Michael Brown",
+        "years_of_experience": 20,
+        "num_of_recipes": 300,
+        "likes": 1500
+    },
+    {
+        "chef_picture": "https://st3.depositphotos.com/10638998/16262/i/450/depositphotos_162620526-stock-photo-happy-chef-doing-presentation.jpg",
+        "chef_name": "Lila Patel",
+        "years_of_experience": 3,
+        "num_of_recipes": 25,
+        "likes": 100
+    },
+    {
+        "chef_picture": "https://st3.depositphotos.com/10638998/16262/i/450/depositphotos_162620526-stock-photo-happy-chef-doing-presentation.jpg",
+        "chef_name": "Samuel Lee",
+        "years_of_experience": 10,
+        "num_of_recipes": 80,
+        "likes": 400
+    },
+    {
+        "chef_picture": "https://st3.depositphotos.com/10638998/16262/i/450/depositphotos_162620526-stock-photo-happy-chef-doing-presentation.jpg",
+        "chef_name": "Sophie Chen",
+        "years_of_experience": 6,
+        "num_of_recipes": 60,
+        "likes": 200
+    }
+]
