@@ -5,7 +5,106 @@
         "chef_name": "Mr. Alif",
         "years_of_experience": 8,
         "num_of_recipes": 100,
-        "likes": 500
+        "likes": 500,
+        "bio": "Mr. Alif is a highly skilled chef with over 20 years of experience in Bengali cuisine. She is known for her ability to take traditional dishes and add her own creative twist, resulting in unique and delicious flavors. Rukhsana's passion for cooking started at a young age and has only grown stronger over the years. Today, she is considered one of the best Bangladeshi chefs in the country.",
+        "chefRecipe": [
+            {
+                "recipePhoto": "https://www.masala.tv/wp-content/uploads/2021/05/KARACHI-BEEF-BIRYANI-lazzat-scaled.jpg",
+                "recipe": "Beef Biryani",
+                "rating": 4.7,
+                "description": "A classic South Asian rice dish made with beef, aromatic spices, and basmati rice.",
+                "servings": 6,
+                "ingredients": [
+                    "1 kg beef, cut into cubes",
+                    "4 cups basmati rice, soaked for 30 minutes",
+                    "2 onions, sliced",
+                    "2 teaspoons ginger paste",
+                    "2 teaspoons garlic paste",
+                    "1 cup plain yogurt",
+                    "1/2 cup cooking oil",
+                    "2 cinnamon sticks",
+                    "4 green cardamom pods",
+                    "4 cloves",
+                    "1 bay leaf",
+                    "2 teaspoons cumin seeds",
+                    "1 teaspoon coriander powder",
+                    "1 teaspoon cumin powder",
+                    "1 teaspoon turmeric powder",
+                    "1 teaspoon chili powder",
+                    "2 teaspoons garam masala powder",
+                    "1/2 cup fresh cilantro, chopped",
+                    "1/2 cup fresh mint leaves, chopped",
+                    "Salt, to taste",
+                    "4 cups water"
+                ],
+                "instructions": [
+                    "In a large pot, heat the cooking oil over medium-high heat. Add the onions and cook until golden brown.",
+                    "Add the beef and cook until browned on all sides.",
+                    "Add the ginger and garlic paste, cinnamon sticks, green cardamom pods, cloves, bay leaf, cumin seeds, and salt. Cook for 2-3 minutes.",
+                    "Add the coriander powder, cumin powder, turmeric powder, and chili powder. Cook for another 2-3 minutes.",
+                    "Add the yogurt, garam masala powder, cilantro, and mint leaves. Mix well and cook for 5 minutes.",
+                    "Add the soaked rice and 4 cups of water. Bring to a boil, then reduce heat to low and cover. Cook for 15-20 minutes, or until the rice is cooked and the water has evaporated.",
+                    "Serve hot, garnished with additional cilantro and mint leaves."
+                ]
+            },
+            {
+                "recipePhoto": "https://reetikamitra.com/wp-content/uploads/2020/09/Prawn-Malai-Curry-Logo-1.jpg",
+                "recipe": "Chingri Malaikari",
+                "rating": 3.8,
+                "description": "A traditional Bengali dish made with prawns in a creamy coconut milk sauce.",
+                "servings": 4,
+                "ingredients": [
+                    "500g prawns, cleaned and deveined",
+                    "1 onion, finely chopped",
+                    "1 teaspoon ginger paste",
+                    "1 teaspoon garlic paste",
+                    "1 teaspoon turmeric powder",
+                    "1 teaspoon cumin powder",
+                    "1 teaspoon coriander powder",
+                    "1/2 teaspoon red chili powder",
+                    "1/2 teaspoon garam masala powder",
+                    "1 cup coconut milk",
+                    "2 tablespoons vegetable oil",
+                    "Salt to taste"
+                ],
+                "instructions": [
+                    "In a pan, heat the oil over medium heat. Add the onions and sauté until golden brown.",
+                    "Add the ginger and garlic paste and sauté for another minute.",
+                    "Add the prawns and sauté for 2-3 minutes until they turn pink.",
+                    "Add the turmeric, cumin, coriander, red chili powder, and salt. Mix well and sauté for another 2-3 minutes.",
+                    "Add the coconut milk and simmer on low heat for 10-12 minutes until the sauce thickens.",
+                    "Add the garam masala powder and mix well.",
+                    "Serve hot with steamed rice."
+                ]
+            },
+            {
+                "recipePhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/A_photo_of_popular_Bengali_dish_Sorshe_Ilish_served_traditionally.jpg/1200px-A_photo_of_popular_Bengali_dish_Sorshe_Ilish_served_traditionally.jpg",
+                "recipe": "Shorshe Ilish",
+                "rating": 4.5,
+                "description": "A quintessential Bengali dish made with Hilsa fish in a mustard-based gravy.",
+                "servings": 4,
+                "ingredients": [
+                    "4 pieces of Hilsa fish",
+                    "1 tablespoon yellow mustard seeds",
+                    "1 tablespoon black mustard seeds",
+                    "4 green chilies",
+                    "1 teaspoon turmeric powder",
+                    "1/2 teaspoon red chili powder",
+                    "1/2 teaspoon nigella seeds",
+                    "1 tablespoon mustard oil",
+                    "Salt to taste"
+                ],
+                "instructions": [
+                    "In a bowl, mix the yellow and black mustard seeds with a little water and grind to a paste.",
+                    "In a pan, heat the mustard oil and add the nigella seeds.",
+                    "Add the green chilies and sauté for a minute.",
+                    "Add the turmeric and red chili powder and sauté for another minute.",
+                    "Add the mustard paste and mix well. Add salt and enough water to make a gravy.",
+                    "Add the Hilsa fish pieces and simmer on low heat for 10-12 minutes until the fish is cooked and the gravy thickens.",
+                    "Serve hot with steamed rice."
+                ]
+            }
+        ]
     },
     {
         "id": 2,
@@ -13,7 +112,93 @@
         "chef_name": "Mr. Nasir",
         "years_of_experience": 12,
         "num_of_recipes": 75,
-        "likes": 1200
+        "likes": 1200,
+        "bio": "Mr. Nasir is a Bangladeshi-born chef who has made a name for herself in the culinary world. She is the owner of the highly acclaimed restaurant, Darjeeling Express, in London. Asma's cooking is heavily influenced by the food she grew up eating in Kolkata and her dishes are known for their bold flavors and spices. She is also a fierce advocate for female empowerment and works tirelessly to support women in the industry.",
+        "chefRecipe": [
+            {
+                "recipePhoto": "https://i0.wp.com/www.foodieshutrecipes.com/wp-content/uploads/2018/08/Ilish-Bhapa-Jeera-bata-diye-by-foodieshut.jpg?fit=1080%2C1350&ssl=1",
+                "recipe": "Bhapa Ilish",
+                "rating": 4.3,
+                "description": "A steamed Hilsa fish dish cooked with mustard and coconut.",
+                "servings": 4,
+                "ingredients": [
+                    "4 Hilsa fish steaks",
+                    "2 tablespoons mustard oil",
+                    "1 tablespoon black mustard seeds",
+                    "1 tablespoon white mustard seeds",
+                    "1/2 cup grated coconut",
+                    "4 green chilies, slit",
+                    "1 teaspoon turmeric powder",
+                    "Salt to taste"
+                ],
+                "instructions": [
+                    "Marinate the fish steaks with turmeric powder and salt.",
+                    "In a blender, grind the mustard seeds, coconut, and green chilies to a smooth paste.",
+                    "Mix the mustard-coconut paste with mustard oil and salt.",
+                    "Take a steamer and grease it with oil.",
+                    "Place the fish steaks on the steamer and spread the mustard-coconut paste over them.",
+                    "Cover the steamer and steam the fish for 10-12 minutes or until cooked through.",
+                    "Serve hot with steamed rice."
+                ]
+            },
+            {
+                "recipePhoto": "https://i.ytimg.com/vi/GsnFpoyr6h8/maxresdefault.jpg",
+                "recipe": "Jorda Vat",
+                "rating": 4.0,
+                "description": "A sweet rice dish cooked in milk, ghee, and flavored with cardamom and saffron.",
+                "servings": 4,
+                "ingredients": [
+                    "1 cup basmati rice",
+                    "4 cups milk",
+                    "1/2 cup sugar",
+                    "4 tablespoons ghee",
+                    "2 cardamom pods, crushed",
+                    "1/4 teaspoon saffron threads",
+                    "2 tablespoons sliced almonds (optional)"
+                ],
+                "instructions": [
+                    "Wash the rice in cold water and soak in water for 30 minutes. Drain the water and keep aside.",
+                    "In a deep non-stick pan, heat the milk on medium heat until it starts to boil.",
+                    "Add the soaked rice to the boiling milk and stir well.",
+                    "Reduce the heat to low and let the rice cook in the milk, stirring occasionally to prevent sticking to the bottom of the pan.",
+                    "Cook the rice until the milk has reduced to half its original volume and the rice is soft and cooked.",
+                    "Add sugar and stir well until the sugar is completely dissolved.",
+                    "In a separate small pan, heat the ghee on low heat and add the crushed cardamom pods and saffron threads. Cook for a minute or until the ghee is fragrant.",
+                    "Pour the ghee mixture over the rice and mix well.",
+                    "Garnish with sliced almonds, if desired, and serve warm or chilled."
+                ]
+            },
+            {
+                "recipePhoto": "https://reetikamitra.com/wp-content/uploads/2020/09/Prawn-Malai-Curry-Logo-1.jpg",
+                "recipe": "Chingri Malaikari",
+                "rating": 3.8,
+                "description": "A traditional Bengali dish made with prawns in a creamy coconut milk sauce.",
+                "servings": 4,
+                "ingredients": [
+                    "500g prawns, cleaned and deveined",
+                    "1 onion, finely chopped",
+                    "1 teaspoon ginger paste",
+                    "1 teaspoon garlic paste",
+                    "1 teaspoon turmeric powder",
+                    "1 teaspoon cumin powder",
+                    "1 teaspoon coriander powder",
+                    "1/2 teaspoon red chili powder",
+                    "1/2 teaspoon garam masala powder",
+                    "1 cup coconut milk",
+                    "2 tablespoons vegetable oil",
+                    "Salt to taste"
+                ],
+                "instructions": [
+                    "In a pan, heat the oil over medium heat. Add the onions and sauté until golden brown.",
+                    "Add the ginger and garlic paste and sauté for another minute.",
+                    "Add the prawns and sauté for 2-3 minutes until they turn pink.",
+                    "Add the turmeric, cumin, coriander, red chili powder, and salt. Mix well and sauté for another 2-3 minutes.",
+                    "Add the coconut milk and simmer on low heat for 10-12 minutes until the sauce thickens.",
+                    "Add the garam masala powder and mix well.",
+                    "Serve hot with steamed rice."
+                ]
+            }
+        ]
     },
     {
         "id": 3,
@@ -21,7 +206,100 @@
         "chef_name": "Mr. Sohel",
         "years_of_experience": 5,
         "num_of_recipes": 50,
-        "likes": 300
+        "likes": 300,
+        "bio": "Mr. Sohel is a Bangladeshi chef who has spent years perfecting his craft. He is an expert in traditional Bangladeshi cuisine and is known for his ability to create authentic dishes that are full of flavor. Mamun is passionate about using fresh, locally sourced ingredients and has a deep respect for the culinary traditions of Bangladesh. His dedication to his craft has earned him a loyal following of foodies and admirers alike.",
+        "chefRecipe": [
+            {
+                "recipePhoto": "https://aartimadan.com/wp-content/uploads/2019/09/Mishti-doi-4.jpg",
+                "recipe": "Mishti Doi",
+                "rating": 4.6,
+                "description": "A popular Bengali dessert made with sweetened condensed milk and yogurt.",
+                "servings": 6,
+                "ingredients": [
+                    "2 cans of sweetened condensed milk",
+                    "1 liter of full-fat yogurt",
+                    "1 teaspoon cardamom powder",
+                    "1/2 cup sugar",
+                    "Saffron strands for garnishing"
+                ],
+                "instructions": [
+                    "In a bowl, mix the condensed milk, yogurt, cardamom powder, and sugar until well combined.",
+                    "Pour the mixture into small earthen pots or bowls.",
+                    "Cover the pots with aluminum foil and place them in a baking tray.",
+                    "Fill the baking tray with water, about halfway up the sides of the pots.",
+                    "Bake the pots at 180°C for 30-40 minutes until the yogurt sets.",
+                    "Remove the pots from the oven and let them cool to room temperature.",
+                    "Refrigerate the pots for at least 2 hours before serving.",
+                    "Garnish with saffron strands and serve chilled."
+                ]
+            },
+            {
+                "recipePhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/A_photo_of_popular_Bengali_dish_Sorshe_Ilish_served_traditionally.jpg/1200px-A_photo_of_popular_Bengali_dish_Sorshe_Ilish_served_traditionally.jpg",
+                "recipe": "Shorshe Ilish",
+                "rating": 4.5,
+                "description": "A quintessential Bengali dish made with Hilsa fish in a mustard-based gravy.",
+                "servings": 4,
+                "ingredients": [
+                    "4 pieces of Hilsa fish",
+                    "1 tablespoon yellow mustard seeds",
+                    "1 tablespoon black mustard seeds",
+                    "4 green chilies",
+                    "1 teaspoon turmeric powder",
+                    "1/2 teaspoon red chili powder",
+                    "1/2 teaspoon nigella seeds",
+                    "1 tablespoon mustard oil",
+                    "Salt to taste"
+                ],
+                "instructions": [
+                    "In a bowl, mix the yellow and black mustard seeds with a little water and grind to a paste.",
+                    "In a pan, heat the mustard oil and add the nigella seeds.",
+                    "Add the green chilies and sauté for a minute.",
+                    "Add the turmeric and red chili powder and sauté for another minute.",
+                    "Add the mustard paste and mix well. Add salt and enough water to make a gravy.",
+                    "Add the Hilsa fish pieces and simmer on low heat for 10-12 minutes until the fish is cooked and the gravy thickens.",
+                    "Serve hot with steamed rice."
+                ]
+            },
+            {
+                "recipePhoto": "https://www.masala.tv/wp-content/uploads/2021/05/KARACHI-BEEF-BIRYANI-lazzat-scaled.jpg",
+                "recipe": "Beef Biryani",
+                "rating": 4.7,
+                "description": "A classic South Asian rice dish made with beef, aromatic spices, and basmati rice.",
+                "servings": 6,
+                "ingredients": [
+                    "1 kg beef, cut into cubes",
+                    "4 cups basmati rice, soaked for 30 minutes",
+                    "2 onions, sliced",
+                    "2 teaspoons ginger paste",
+                    "2 teaspoons garlic paste",
+                    "1 cup plain yogurt",
+                    "1/2 cup cooking oil",
+                    "2 cinnamon sticks",
+                    "4 green cardamom pods",
+                    "4 cloves",
+                    "1 bay leaf",
+                    "2 teaspoons cumin seeds",
+                    "1 teaspoon coriander powder",
+                    "1 teaspoon cumin powder",
+                    "1 teaspoon turmeric powder",
+                    "1 teaspoon chili powder",
+                    "2 teaspoons garam masala powder",
+                    "1/2 cup fresh cilantro, chopped",
+                    "1/2 cup fresh mint leaves, chopped",
+                    "Salt, to taste",
+                    "4 cups water"
+                ],
+                "instructions": [
+                    "In a large pot, heat the cooking oil over medium-high heat. Add the onions and cook until golden brown.",
+                    "Add the beef and cook until browned on all sides.",
+                    "Add the ginger and garlic paste, cinnamon sticks, green cardamom pods, cloves, bay leaf, cumin seeds, and salt. Cook for 2-3 minutes.",
+                    "Add the coriander powder, cumin powder, turmeric powder, and chili powder. Cook for another 2-3 minutes.",
+                    "Add the yogurt, garam masala powder, cilantro, and mint leaves. Mix well and cook for 5 minutes.",
+                    "Add the soaked rice and 4 cups of water. Bring to a boil, then reduce heat to low and cover. Cook for 15-20 minutes, or until the rice is cooked and the water has evaporated.",
+                    "Serve hot, garnished with additional cilantro and mint leaves."
+                ]
+            }
+        ]
     },
     {
         "id": 4,
@@ -29,7 +307,127 @@
         "chef_name": "Ms. Jannatul",
         "years_of_experience": 15,
         "num_of_recipes": 200,
-        "likes": 900
+        "likes": 900,
+        "bio": "Ms. Jannatul is a Bangladeshi chef who has made a name for himself in the UK. Shee is the head chef and owner of the restaurant, Spice Island, in London. Nazir's cooking is heavily influenced by the flavors and spices of his homeland and his dishes are known for their bold and complex flavors. He is a master of blending spices and creating dishes that are both familiar and innovative. Nazir is a strong advocate for promoting Bangladeshi cuisine and is passionate about showcasing its rich culinary history and traditions.",
+        "chefRecipe": [
+            {
+                "recipePhoto": "https://rumkisgoldenspoon.com/wp-content/uploads/2021/08/Shorshe-ilish.jpg",
+                "recipe": "Shorshe Bata Ilish",
+                "rating": 4.4,
+                "description": "A traditional Bengali fish curry made with Hilsa fish and mustard paste.",
+                "servings": 4,
+                "ingredients": [
+                    "4 Hilsa fish steaks",
+                    "1/2 cup yellow mustard seeds",
+                    "4 green chilies",
+                    "1 teaspoon turmeric powder",
+                    "Salt to taste",
+                    "3 tablespoons mustard oil",
+                    "2 cups water"
+                ],
+                "instructions": [
+                    "Marinate the fish steaks with turmeric powder and salt.",
+                    "In a blender, grind the mustard seeds, green chilies, and salt to a smooth paste.",
+                    "Heat the mustard oil in a pan.",
+                    "Add the mustard paste to the pan and fry for 2-3 minutes.",
+                    "Add water to the pan and bring the mixture to a boil.",
+                    "Add the marinated fish steaks to the pan and cook for 10-12 minutes or until the fish is cooked through.",
+                    "Serve hot with steamed rice."
+                ]
+            },
+            {
+                "recipePhoto": "https://img.freepik.com/premium-photo/luchi-cholar-dal-fried-bread-made-flour-served-along-with-curried-chana-bengal-gram_466689-86497.jpg",
+                "recipe": "Luchi and Cholar Dal",
+                "rating": 3.7,
+                "description": "A classic Bengali breakfast dish consisting of deep-fried flatbreads and a sweet and spicy lentil curry.",
+                "servings": 4,
+                "ingredients": [
+                    "For Luchi:",
+                    "2 cups all-purpose flour",
+                    "1/4 cup vegetable oil",
+                    "1/2 teaspoon salt",
+                    "Water (as needed)",
+                    "Oil (for deep-frying)",
+                    "",
+                    "For Cholar Dal:",
+                    "1 cup chana dal (split Bengal gram)",
+                    "1/2 teaspoon turmeric powder",
+                    "1 teaspoon cumin powder",
+                    "1 teaspoon coriander powder",
+                    "1/2 teaspoon red chili powder",
+                    "1/2 teaspoon garam masala powder",
+                    "1/2 teaspoon sugar",
+                    "1 bay leaf",
+                    "2 dried red chilies",
+                    "2 tablespoons vegetable oil",
+                    "1 teaspoon ginger paste",
+                    "1 teaspoon cumin seeds",
+                    "1 teaspoon mustard seeds",
+                    "1 teaspoon fennel seeds",
+                    "2 green chilies, chopped",
+                    "1 tablespoon fresh coriander leaves, chopped"
+                ],
+                "instructions": [
+                    "For Luchi:",
+                    "Mix the flour, oil, and salt together in a bowl. Add water as needed to make a soft dough. Knead the dough for 5-10 minutes.",
+                    "Cover the dough with a damp cloth and let it rest for 30 minutes.",
+                    "Divide the dough into small balls and roll them out into flatbreads.",
+                    "Heat oil in a pan and deep-fry the flatbreads until they are puffed and golden brown. Remove and drain on a paper towel.",
+                    "",
+                    "For Cholar Dal:",
+                    "Wash and soak the chana dal in water for 30 minutes.",
+                    "Boil the dal with 1/2 teaspoon turmeric powder and salt until it is cooked but not mushy. Drain and keep aside.",
+                    "Heat oil in a pan and add the bay leaf, dried red chilies, cumin seeds, mustard seeds, and fennel seeds. Fry until the spices are fragrant.",
+                    "Add the ginger paste and green chilies and fry for a minute.",
+                    "Add the cooked dal, cumin powder, coriander powder, red chili powder, garam masala powder, sugar, and salt. Mix well.",
+                    "Add water as needed to make a thick gravy and bring to a boil.",
+                    "Simmer for 5-6 minutes until the dal is well-cooked and the gravy thickens.",
+                    "Garnish with fresh coriander leaves and serve hot with luchi."
+                ]
+            },
+            {
+                "recipePhoto": "https://i0.wp.com/notoutofthebox.in/wp-content/uploads/2013/12/dd6.jpg",
+                "recipe": "Dhokar Dalna",
+                "rating": 3.5,
+                "description": "A traditional Bengali dish made with lentil cakes in a tomato-based gravy.",
+                "servings": 4,
+                "ingredients": [
+                    "1 cup chana dal (split Bengal gram)",
+                    "1 onion, chopped",
+                    "2 green chilies, chopped",
+                    "1 teaspoon ginger paste",
+                    "1 teaspoon garlic paste",
+                    "1 teaspoon cumin powder",
+                    "1/2 teaspoon turmeric powder",
+                    "1/2 teaspoon red chili powder",
+                    "1/2 teaspoon garam masala powder",
+                    "2 tomatoes, chopped",
+                    "2 tablespoons vegetable oil",
+                    "1 teaspoon sugar",
+                    "Salt, to taste",
+                    "Coriander leaves, for garnishing",
+                    "Water, as needed"
+                ],
+                "instructions": [
+                    "Soak the chana dal in water for at least 2 hours.",
+                    "Drain the water and grind the dal into a smooth paste.",
+                    "Add salt to taste and mix well.",
+                    "Spread the dal paste on a greased plate and steam for 15-20 minutes or until cooked through.",
+                    "Remove from the steamer and let it cool.",
+                    "Cut the steamed dal cake into small diamond shapes and set aside.",
+                    "Heat oil in a pan and fry the dal cakes until lightly browned on both sides. Remove from the pan and set aside.",
+                    "In the same pan, add chopped onion and sauté until translucent.",
+                    "Add green chilies, ginger paste, and garlic paste. Sauté for a few minutes.",
+                    "Add cumin powder, turmeric powder, and red chili powder. Mix well.",
+                    "Add chopped tomatoes and cook until they become soft and mushy.",
+                    "Add water as needed to make a gravy consistency.",
+                    "Add salt and sugar to taste.",
+                    "Add the fried dal cakes to the gravy and simmer for 5-10 minutes.",
+                    "Sprinkle garam masala powder on top and garnish with coriander leaves.",
+                    "Serve hot with steamed rice."
+                ]
+            }
+        ]
     },
     {
         "id": 5,
@@ -37,7 +435,92 @@
         "chef_name": "Ms. Sonia",
         "years_of_experience": 7,
         "num_of_recipes": 120,
-        "likes": 700
+        "likes": 700,
+        "bio": "Ms. Sonia is a Bangladeshi chef who has made a name for herself as a TV personality and cookbook author. She is known for her easy-to-follow recipes and her ability to make traditional Bangladeshi dishes accessible to a wider audience. Nadia is passionate about using fresh ingredients and incorporating healthy cooking practices into her recipes. Her cookbook, 'Nadia's Kitchen', has become a bestseller and has inspired countless home cooks to try their hand at Bangladeshi cuisine.",
+        "chefRecipe": [
+            {
+                "recipePhoto": "https://aartimadan.com/wp-content/uploads/2019/09/Mishti-doi-4.jpg",
+                "recipe": "Mishti Doi",
+                "rating": 4.6,
+                "description": "A popular Bengali dessert made with sweetened condensed milk and yogurt.",
+                "servings": 6,
+                "ingredients": [
+                    "2 cans of sweetened condensed milk",
+                    "1 liter of full-fat yogurt",
+                    "1 teaspoon cardamom powder",
+                    "1/2 cup sugar",
+                    "Saffron strands for garnishing"
+                ],
+                "instructions": [
+                    "In a bowl, mix the condensed milk, yogurt, cardamom powder, and sugar until well combined.",
+                    "Pour the mixture into small earthen pots or bowls.",
+                    "Cover the pots with aluminum foil and place them in a baking tray.",
+                    "Fill the baking tray with water, about halfway up the sides of the pots.",
+                    "Bake the pots at 180°C for 30-40 minutes until the yogurt sets.",
+                    "Remove the pots from the oven and let them cool to room temperature.",
+                    "Refrigerate the pots for at least 2 hours before serving.",
+                    "Garnish with saffron strands and serve chilled."
+                ]
+            },
+            {
+                "recipePhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/A_photo_of_popular_Bengali_dish_Sorshe_Ilish_served_traditionally.jpg/1200px-A_photo_of_popular_Bengali_dish_Sorshe_Ilish_served_traditionally.jpg",
+                "recipe": "Shorshe Ilish",
+                "rating": 4.5,
+                "description": "A quintessential Bengali dish made with Hilsa fish in a mustard-based gravy.",
+                "servings": 4,
+                "ingredients": [
+                    "4 pieces of Hilsa fish",
+                    "1 tablespoon yellow mustard seeds",
+                    "1 tablespoon black mustard seeds",
+                    "4 green chilies",
+                    "1 teaspoon turmeric powder",
+                    "1/2 teaspoon red chili powder",
+                    "1/2 teaspoon nigella seeds",
+                    "1 tablespoon mustard oil",
+                    "Salt to taste"
+                ],
+                "instructions": [
+                    "In a bowl, mix the yellow and black mustard seeds with a little water and grind to a paste.",
+                    "In a pan, heat the mustard oil and add the nigella seeds.",
+                    "Add the green chilies and sauté for a minute.",
+                    "Add the turmeric and red chili powder and sauté for another minute.",
+                    "Add the mustard paste and mix well. Add salt and enough water to make a gravy.",
+                    "Add the Hilsa fish pieces and simmer on low heat for 10-12 minutes until the fish is cooked and the gravy thickens.",
+                    "Serve hot with steamed rice."
+                ]
+            },
+            {
+                "recipePhoto": "https://img-global.cpcdn.com/recipes/cfa930ddf810c750/680x482cq70/%E0%A6%9A%E0%A6%A1-%E0%A6%AE%E0%A6%9B%E0%A6%B0-%E0%A6%AE%E0%A6%B2%E0%A6%87%E0%A6%95%E0%A6%B0-chingri-macher-malai-curry-recipe-in-bengali-%E0%A6%B0%E0%A6%B8%E0%A6%AA%E0%A6%B0-%E0%A6%AA%E0%A6%B0%E0%A6%A7%E0%A6%A8-%E0%A6%9B%E0%A6%AC.jpg",
+                "recipe": "Chingri Macher Malai Curry",
+                "rating": 3.9,
+                "description": "A classic Bengali dish made with prawns in a creamy coconut milk gravy.",
+                "servings": 4,
+                "ingredients": [
+                    "500 grams of prawns",
+                    "1 onion, chopped",
+                    "2 green chilies, chopped",
+                    "1 teaspoon ginger paste",
+                    "1 teaspoon garlic paste",
+                    "1 teaspoon turmeric powder",
+                    "1 teaspoon cumin powder",
+                    "1/2 teaspoon red chili powder",
+                    "1/2 teaspoon garam masala powder",
+                    "1 cup coconut milk",
+                    "2 tablespoons vegetable oil",
+                    "Salt to taste"
+                ],
+                "instructions": [
+                    "Clean and devein the prawns.",
+                    "In a pan, heat the oil and sauté the onion and green chilies until the onion turns translucent.",
+                    "Add the ginger and garlic paste and sauté for another minute.",
+                    "Add the turmeric, cumin, red chili, and garam masala powders and mix well.",
+                    "Add the prawns and mix well. Add salt and enough water to make a gravy.",
+                    "Cover the pan and simmer on low heat for 5-7 minutes until the prawns are cooked.",
+                    "Add the coconut milk and simmer for another 2-3 minutes until the gravy thickens.",
+                    "Serve hot with steamed rice."
+                ]
+            }
+        ]
     },
     {
         "id": 6,
@@ -45,7 +528,105 @@
         "chef_name": "Abbas Ali",
         "years_of_experience": 20,
         "num_of_recipes": 300,
-        "likes": 1500
+        "likes": 1500,
+        "bio": "Abbas Ali is a Bangladeshi chef who has spent over two decades perfecting his craft. He is the head chef at one of Dhaka's most prestigious restaurants, and his cooking is highly sought after by food enthusiasts. Kamal's specialty is modern Bangladeshi cuisine, and he is known for his ability to take traditional dishes and give them a contemporary twist. His dishes are a feast for the senses and showcase the best of Bangladeshi cuisine.",
+        "chefRecipe": [
+            {
+                "recipePhoto": "https://www.myweekendkitchen.in/wp-content/uploads/2015/01/aloo_posto.jpg",
+                "recipe": "Aloo Posto",
+                "rating": 3.8,
+                "description": "A popular Bengali dish made with potatoes in a poppy seed-based gravy.",
+                "servings": 4,
+                "ingredients": [
+                    "4 potatoes, peeled and cubed",
+                    "4 tablespoons poppy seeds",
+                    "2 green chilies",
+                    "1 teaspoon turmeric powder",
+                    "1/2 teaspoon nigella seeds",
+                    "1 tablespoon mustard oil",
+                    "Salt to taste"
+                ],
+                "instructions": [
+                    "Soak the poppy seeds in water for 30 minutes.",
+                    "In a blender, grind the poppy seeds and green chilies to a paste.",
+                    "In a pan, heat the mustard oil and add the nigella seeds.",
+                    "Add the cubed potatoes and sauté for a few minutes.",
+                    "Add the turmeric powder and sauté for another minute.",
+                    "Add the poppy seed paste and mix well. Add salt and enough water to make a gravy.",
+                    "Cover the pan and simmer on low heat for 10-12 minutes until the potatoes are cooked and the gravy thickens.",
+                    "Serve hot with steamed rice."
+                ]
+            },
+            {
+                "recipePhoto": "https://i0.wp.com/notoutofthebox.in/wp-content/uploads/2013/12/dd6.jpg",
+                "recipe": "Dhokar Dalna",
+                "rating": 3.5,
+                "description": "A traditional Bengali dish made with lentil cakes in a tomato-based gravy.",
+                "servings": 4,
+                "ingredients": [
+                    "1 cup chana dal (split Bengal gram)",
+                    "1 onion, chopped",
+                    "2 green chilies, chopped",
+                    "1 teaspoon ginger paste",
+                    "1 teaspoon garlic paste",
+                    "1 teaspoon cumin powder",
+                    "1/2 teaspoon turmeric powder",
+                    "1/2 teaspoon red chili powder",
+                    "1/2 teaspoon garam masala powder",
+                    "2 tomatoes, chopped",
+                    "2 tablespoons vegetable oil",
+                    "1 teaspoon sugar",
+                    "Salt, to taste",
+                    "Coriander leaves, for garnishing",
+                    "Water, as needed"
+                ],
+                "instructions": [
+                    "Soak the chana dal in water for at least 2 hours.",
+                    "Drain the water and grind the dal into a smooth paste.",
+                    "Add salt to taste and mix well.",
+                    "Spread the dal paste on a greased plate and steam for 15-20 minutes or until cooked through.",
+                    "Remove from the steamer and let it cool.",
+                    "Cut the steamed dal cake into small diamond shapes and set aside.",
+                    "Heat oil in a pan and fry the dal cakes until lightly browned on both sides. Remove from the pan and set aside.",
+                    "In the same pan, add chopped onion and sauté until translucent.",
+                    "Add green chilies, ginger paste, and garlic paste. Sauté for a few minutes.",
+                    "Add cumin powder, turmeric powder, and red chili powder. Mix well.",
+                    "Add chopped tomatoes and cook until they become soft and mushy.",
+                    "Add water as needed to make a gravy consistency.",
+                    "Add salt and sugar to taste.",
+                    "Add the fried dal cakes to the gravy and simmer for 5-10 minutes.",
+                    "Sprinkle garam masala powder on top and garnish with coriander leaves.",
+                    "Serve hot with steamed rice."
+                ]
+            },
+            {
+                "recipePhoto": "https://img-global.cpcdn.com/recipes/57f88b366905ddfe/680x482cq70/shorshe-ilish-bengali-fish-curry-recipe-main-photo.jpg",
+                "recipe": "Shorshe Maach",
+                "rating": 4.1,
+                "description": "A popular Bengali fish dish cooked with mustard paste and served with steamed rice.",
+                "servings": 4,
+                "ingredients": [
+                    "4 pieces of rohu fish (or any other freshwater fish)",
+                    "2 tablespoons mustard oil",
+                    "1 tablespoon black mustard seeds",
+                    "1 tablespoon white mustard seeds",
+                    "2 green chilies, chopped",
+                    "1 teaspoon turmeric powder",
+                    "1/2 teaspoon red chili powder",
+                    "1 teaspoon salt",
+                    "1 tablespoon fresh coriander leaves, chopped"
+                ],
+                "instructions": [
+                    "Clean and wash the fish pieces and marinate them with 1/2 teaspoon turmeric powder and 1/2 teaspoon salt for 10 minutes.",
+                    "Heat mustard oil in a pan and fry the fish pieces until lightly browned on both sides. Remove and keep aside.",
+                    "In the same pan, add the black and white mustard seeds and fry until they start popping. Remove from heat and let it cool down.",
+                    "Grind the fried mustard seeds, green  hilies, and 1/2 teaspoon turmeric powder into a smooth paste.",
+                    "Add the mustard paste to the pan and fry for a minute. Add 1 cup of water, salt, and red chili powder and bring to a boil.",
+                    "Add the fish pieces and cook on medium heat for 5-6 minutes until the gravy thickens.",
+                    "Garnish with fresh coriander leaves and serve hot with steamed rice."
+                ]
+            }
+        ]
     },
     {
         "id": 7,
@@ -53,15 +634,194 @@
         "chef_name": "Tahiyan Hredoy",
         "years_of_experience": 3,
         "num_of_recipes": 25,
-        "likes": 100
+        "likes": 100,
+        "bio": "Tahiyan Hredoy is a Bangladeshi chef who has been making waves in the culinary world. She is the owner of the restaurant, Pasha, in Dhaka, which is known for its modern take on traditional Bangladeshi cuisine. Jannatul is passionate about using fresh, locally sourced ingredients and is committed to promoting sustainable cooking practices. Her dishes are a testament to her creativity and skill, and her restaurant has become a favorite among foodies in the city.",
+        "chefRecipe": [
+            {
+                "recipePhoto": "https://img.freepik.com/premium-photo/luchi-cholar-dal-fried-bread-made-flour-served-along-with-curried-chana-bengal-gram_466689-86497.jpg",
+                "recipe": "Luchi and Cholar Dal",
+                "rating": 3.7,
+                "description": "A classic Bengali breakfast dish consisting of deep-fried flatbreads and a sweet and spicy lentil curry.",
+                "servings": 4,
+                "ingredients": [
+                    "For Luchi:",
+                    "2 cups all-purpose flour",
+                    "1/4 cup vegetable oil",
+                    "1/2 teaspoon salt",
+                    "Water (as needed)",
+                    "Oil (for deep-frying)",
+                    "",
+                    "For Cholar Dal:",
+                    "1 cup chana dal (split Bengal gram)",
+                    "1/2 teaspoon turmeric powder",
+                    "1 teaspoon cumin powder",
+                    "1 teaspoon coriander powder",
+                    "1/2 teaspoon red chili powder",
+                    "1/2 teaspoon garam masala powder",
+                    "1/2 teaspoon sugar",
+                    "1 bay leaf",
+                    "2 dried red chilies",
+                    "2 tablespoons vegetable oil",
+                    "1 teaspoon ginger paste",
+                    "1 teaspoon cumin seeds",
+                    "1 teaspoon mustard seeds",
+                    "1 teaspoon fennel seeds",
+                    "2 green chilies, chopped",
+                    "1 tablespoon fresh coriander leaves, chopped"
+                ],
+                "instructions": [
+                    "For Luchi:",
+                    "Mix the flour, oil, and salt together in a bowl. Add water as needed to make a soft dough. Knead the dough for 5-10 minutes.",
+                    "Cover the dough with a damp cloth and let it rest for 30 minutes.",
+                    "Divide the dough into small balls and roll them out into flatbreads.",
+                    "Heat oil in a pan and deep-fry the flatbreads until they are puffed and golden brown. Remove and drain on a paper towel.",
+                    "",
+                    "For Cholar Dal:",
+                    "Wash and soak the chana dal in water for 30 minutes.",
+                    "Boil the dal with 1/2 teaspoon turmeric powder and salt until it is cooked but not mushy. Drain and keep aside.",
+                    "Heat oil in a pan and add the bay leaf, dried red chilies, cumin seeds, mustard seeds, and fennel seeds. Fry until the spices are fragrant.",
+                    "Add the ginger paste and green chilies and fry for a minute.",
+                    "Add the cooked dal, cumin powder, coriander powder, red chili powder, garam masala powder, sugar, and salt. Mix well.",
+                    "Add water as needed to make a thick gravy and bring to a boil.",
+                    "Simmer for 5-6 minutes until the dal is well-cooked and the gravy thickens.",
+                    "Garnish with fresh coriander leaves and serve hot with luchi."
+                ]
+            },
+            {
+                "recipePhoto": "https://i0.wp.com/www.foodieshutrecipes.com/wp-content/uploads/2018/08/Ilish-Bhapa-Jeera-bata-diye-by-foodieshut.jpg?fit=1080%2C1350&ssl=1",
+                "recipe": "Bhapa Ilish",
+                "rating": 4.3,
+                "description": "A steamed Hilsa fish dish cooked with mustard and coconut.",
+                "servings": 4,
+                "ingredients": [
+                    "4 Hilsa fish steaks",
+                    "2 tablespoons mustard oil",
+                    "1 tablespoon black mustard seeds",
+                    "1 tablespoon white mustard seeds",
+                    "1/2 cup grated coconut",
+                    "4 green chilies, slit",
+                    "1 teaspoon turmeric powder",
+                    "Salt to taste"
+                ],
+                "instructions": [
+                    "Marinate the fish steaks with turmeric powder and salt.",
+                    "In a blender, grind the mustard seeds, coconut, and green chilies to a smooth paste.",
+                    "Mix the mustard-coconut paste with mustard oil and salt.",
+                    "Take a steamer and grease it with oil.",
+                    "Place the fish steaks on the steamer and spread the mustard-coconut paste over them.",
+                    "Cover the steamer and steam the fish for 10-12 minutes or until cooked through.",
+                    "Serve hot with steamed rice."
+                ]
+            },
+            {
+                "recipePhoto": "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/Farrukh_Aziz_Ansari/Begun_Bhaja.jpg",
+                "recipe": "Begun Bhaja",
+                "rating": 4.5,
+                "description": "A crispy and spicy Bengali-style eggplant fry.",
+                "servings": 4,
+                "ingredients": [
+                    "1 large eggplant, cut into rounds",
+                    "1/2 teaspoon turmeric powder",
+                    "1/2 teaspoon red chili powder",
+                    "1/2 teaspoon coriander powder",
+                    "Salt to taste",
+                    "3 tablespoons mustard oil"
+                ],
+                "instructions": [
+                    "Sprinkle the eggplant rounds with turmeric powder, red chili powder, coriander powder, and salt.",
+                    "Heat the mustard oil in a pan.",
+                    "Add the seasoned eggplant rounds to the pan and fry until crispy and golden brown on both sides.",
+                    "Serve hot with steamed rice."
+                ]
+            }
+        ]
     },
     {
         "id": 8,
         "chef_picture": "https://htn.com.au/wp-content/uploads/2018/02/PP18-DIPLOMA-IN-PROFESSIONAL-CHEF.jpg",
         "chef_name": "Shoriful Haque",
-       "years_of_experience": 10,
+        "years_of_experience": 10,
         "num_of_recipes": 80,
-        "likes": 400
+        "likes": 400,
+        "bio": "Shoriful Haque is a Bangladeshi chef who has been in the industry for over three decades. He is known for his expertise in traditional Bangladeshi cooking and has cooked for some of the country's most prominent political figures. Abdul's cooking is characterized by its simplicity and emphasis on quality ingredients. He is passionate about preserving the culinary traditions of Bangladesh and is dedicated to passing on his knowledge to the next generation of chefs.",
+        "chefRecipe": [
+            {
+                "recipePhoto": "https://rumkisgoldenspoon.com/wp-content/uploads/2021/08/Shorshe-ilish.jpg",
+                "recipe": "Shorshe Bata Ilish",
+                "rating": 4.4,
+                "description": "A traditional Bengali fish curry made with Hilsa fish and mustard paste.",
+                "servings": 4,
+                "ingredients": [
+                    "4 Hilsa fish steaks",
+                    "1/2 cup yellow mustard seeds",
+                    "4 green chilies",
+                    "1 teaspoon turmeric powder",
+                    "Salt to taste",
+                    "3 tablespoons mustard oil",
+                    "2 cups water"
+                ],
+                "instructions": [
+                    "Marinate the fish steaks with turmeric powder and salt.",
+                    "In a blender, grind the mustard seeds, green chilies, and salt to a smooth paste.",
+                    "Heat the mustard oil in a pan.",
+                    "Add the mustard paste to the pan and fry for 2-3 minutes.",
+                    "Add water to the pan and bring the mixture to a boil.",
+                    "Add the marinated fish steaks to the pan and cook for 10-12 minutes or until the fish is cooked through.",
+                    "Serve hot with steamed rice."
+                ]
+            },
+            {
+                "recipePhoto": "https://aartimadan.com/wp-content/uploads/2019/09/Mishti-doi-4.jpg",
+                "recipe": "Mishti Doi",
+                "rating": 4.6,
+                "description": "A traditional Bengali sweet made with sweetened condensed milk and yogurt.",
+                "servings": 6,
+                "ingredients": [
+                    "1 can sweetened condensed milk",
+                    "1 cup plain yogurt",
+                    "1/4 cup sugar",
+                    "1/2 teaspoon ground cardamom",
+                    "2 tablespoons sliced almonds (optional)"
+                ],
+                "instructions": [
+                    "Preheat the oven to 200°F (93°C).",
+                    "In a mixing bowl, whisk together the condensed milk, yogurt, sugar, and ground cardamom until well combined.",
+                    "Pour the mixture into 6 oven-safe ramekins or molds.",
+                    "Place the ramekins or molds in a baking dish and fill the dish with enough hot water to come halfway up the sides of the ramekins or molds.",
+                    "Bake for 3-4 hours, until the Mishti Doi is set and slightly jiggly.",
+                    "Remove the ramekins or molds from the water bath and let cool to room temperature.",
+                    "Refrigerate for at least 2 hours or overnight to chill and set.",
+                    "Garnish with sliced almonds, if desired, and serve chilled."
+                ]
+            },
+            {
+                "recipePhoto": "https://i.ytimg.com/vi/GsnFpoyr6h8/maxresdefault.jpg",
+                "recipe": "Jorda Vat",
+                "rating": 4.0,
+                "description": "A sweet rice dish cooked in milk, ghee, and flavored with cardamom and saffron.",
+                "servings": 4,
+                "ingredients": [
+                    "1 cup basmati rice",
+                    "4 cups milk",
+                    "1/2 cup sugar",
+                    "4 tablespoons ghee",
+                    "2 cardamom pods, crushed",
+                    "1/4 teaspoon saffron threads",
+                    "2 tablespoons sliced almonds (optional)"
+                ],
+                "instructions": [
+                    "Wash the rice in cold water and soak in water for 30 minutes. Drain the water and keep aside.",
+                    "In a deep non-stick pan, heat the milk on medium heat until it starts to boil.",
+                    "Add the soaked rice to the boiling milk and stir well.",
+                    "Reduce the heat to low and let the rice cook in the milk, stirring occasionally to prevent sticking to the bottom of the pan.",
+                    "Cook the rice until the milk has reduced to half its original volume and the rice is soft and cooked.",
+                    "Add sugar and stir well until the sugar is completely dissolved.",
+                    "In a separate small pan, heat the ghee on low heat and add the crushed cardamom pods and saffron threads. Cook for a minute or until the ghee is fragrant.",
+                    "Pour the ghee mixture over the rice and mix well.",
+                    "Garnish with sliced almonds, if desired, and serve warm or chilled."
+                ]
+            }
+        ]
     },
     {
         "id": 9,
@@ -69,6 +829,88 @@
         "chef_name": "Jinnat Purna ",
         "years_of_experience": 6,
         "num_of_recipes": 60,
-        "likes": 200
+        "likes": 200,
+        "bio": "Rafiqul Islam is a Bangladeshi chef who has made a name for himself as a master of street food. He is the owner of a food stall in Dhaka, which is known for its delicious and affordable snacks. Rafiqul's cooking is simple yet flavorful, and his dishes are a testament to the ingenuity and resourcefulness of street food vendors in Bangladesh. Despite his success, Rafiqul remains humble and dedicated to his craft.",
+        "chefRecipe": [
+            {
+                "recipePhoto": "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/Farrukh_Aziz_Ansari/Begun_Bhaja.jpg",
+                "recipe": "Begun Bhaja",
+                "rating": 4.5,
+                "description": "A crispy and spicy Bengali-style eggplant fry.",
+                "servings": 4,
+                "ingredients": [
+                    "1 large eggplant, cut into rounds",
+                    "1/2 teaspoon turmeric powder",
+                    "1/2 teaspoon red chili powder",
+                    "1/2 teaspoon coriander powder",
+                    "Salt to taste",
+                    "3 tablespoons mustard oil"
+                ],
+                "instructions": [
+                    "Sprinkle the eggplant rounds with turmeric powder, red chili powder, coriander powder, and salt.",
+                    "Heat the mustard oil in a pan.",
+                    "Add the seasoned eggplant rounds to the pan and fry until crispy and golden brown on both sides.",
+                    "Serve hot with steamed rice."
+                ]
+            },
+            {
+                "recipePhoto": "https://i.ytimg.com/vi/GsnFpoyr6h8/maxresdefault.jpg",
+                "recipe": "Jorda Vat",
+                "rating": 4.0,
+                "description": "A sweet rice dish cooked in milk, ghee, and flavored with cardamom and saffron.",
+                "servings": 4,
+                "ingredients": [
+                    "1 cup basmati rice",
+                    "4 cups milk",
+                    "1/2 cup sugar",
+                    "4 tablespoons ghee",
+                    "2 cardamom pods, crushed",
+                    "1/4 teaspoon saffron threads",
+                    "2 tablespoons sliced almonds (optional)"
+                ],
+                "instructions": [
+                    "Wash the rice in cold water and soak in water for 30 minutes. Drain the water and keep aside.",
+                    "In a deep non-stick pan, heat the milk on medium heat until it starts to boil.",
+                    "Add the soaked rice to the boiling milk and stir well.",
+                    "Reduce the heat to low and let the rice cook in the milk, stirring occasionally to prevent sticking to the bottom of the pan.",
+                    "Cook the rice until the milk has reduced to half its original volume and the rice is soft and cooked.",
+                    "Add sugar and stir well until the sugar is completely dissolved.",
+                    "In a separate small pan, heat the ghee on low heat and add the crushed cardamom pods and saffron threads. Cook for a minute or until the ghee is fragrant.",
+                    "Pour the ghee mixture over the rice and mix well.",
+                    "Garnish with sliced almonds, if desired, and serve warm or chilled."
+                ]
+            },
+            {
+                "recipePhoto": "https://img-global.cpcdn.com/recipes/cfa930ddf810c750/680x482cq70/%E0%A6%9A%E0%A6%A1-%E0%A6%AE%E0%A6%9B%E0%A6%B0-%E0%A6%AE%E0%A6%B2%E0%A6%87%E0%A6%95%E0%A6%B0-chingri-macher-malai-curry-recipe-in-bengali-%E0%A6%B0%E0%A6%B8%E0%A6%AA%E0%A6%B0-%E0%A6%AA%E0%A6%B0%E0%A6%A7%E0%A6%A8-%E0%A6%9B%E0%A6%AC.jpg",
+                "recipe": "Chingri Macher Malai Curry",
+                "rating": 3.9,
+                "description": "A classic Bengali dish made with prawns in a creamy coconut milk gravy.",
+                "servings": 4,
+                "ingredients": [
+                    "500 grams of prawns",
+                    "1 onion, chopped",
+                    "2 green chilies, chopped",
+                    "1 teaspoon ginger paste",
+                    "1 teaspoon garlic paste",
+                    "1 teaspoon turmeric powder",
+                    "1 teaspoon cumin powder",
+                    "1/2 teaspoon red chili powder",
+                    "1/2 teaspoon garam masala powder",
+                    "1 cup coconut milk",
+                    "2 tablespoons vegetable oil",
+                    "Salt to taste"
+                ],
+                "instructions": [
+                    "Clean and devein the prawns.",
+                    "In a pan, heat the oil and sauté the onion and green chilies until the onion turns translucent.",
+                    "Add the ginger and garlic paste and sauté for another minute.",
+                    "Add the turmeric, cumin, red chili, and garam masala powders and mix well.",
+                    "Add the prawns and mix well. Add salt and enough water to make a gravy.",
+                    "Cover the pan and simmer on low heat for 5-7 minutes until the prawns are cooked.",
+                    "Add the coconut milk and simmer for another 2-3 minutes until the gravy thickens.",
+                    "Serve hot with steamed rice."
+                ]
+            }
+        ]
     }
 ]

@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "question": "what is the Diffarences between uncontrolled and controlled components",
+        "ans": "Uncontrolled components are input elements that maintain their own internal state. On the other hand, Controlled components are input elements that are controlled by React. With uncontrolled components, you have to read the value from the DOM using a ref, while with controlled components, you read the value from the component's state. With controlled components, you can easily validate input as the user types, since the value is always available in the component's state. With uncontrolled components, you have to wait until the form is submitted to validate the input."
+    },
+    {
+        "id": 2,
+        "question": "How to validate React Props Using PropTypes?",
+        "ans": "You can validate React props using PropTypes, which is a package that comes with React.  PropTypes is kind of similer to the if else condition, you can difined what type a prop should be PropTypes provides a variety of validators that you can use to validate your props, such as string, number, array, object, and many more. You can also create custom validators using PropTypes.shape() and PropTypes.instanceOf()"
+    },
+    {
+        "id": 3,
+        "question": "What is the diffarences between nodejs and express js?",
+        "ans": "Node.js is a runtime build on V8 engine. basically it  allows us to run javascrip code outside of the browser. Node.js provide an environment that makes it possible to build server-side appilacations using javaScript. On the other Hand Express is a web appication framework built on the top of Node.js.  Express.js provides a set of features and tools that help you organize your code and build web applications more quickly and efficiently. Express.js makes it easier to work with Node.js by providing a simpler API and abstracting away some of the complexities of building server-side applications."
+    },
+    {
+        "id": 4,
+        "question": "What is a custome Hook, and why will you use it?",
+        "ans": "Custom hooks are useful when you have some logic that needs to be used in multiple components or when you want to separate concerns in your application. Custom hooks can help simplify complex components, reduce code duplication, and make it easier to share functionality between components."
+    }
+]
